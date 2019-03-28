@@ -1,3 +1,3 @@
 # Project HTML
 
-implement html personal website
+HTML website by Bintang.
