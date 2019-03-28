@@ -1,4 +1,4 @@
-# Project HTML
+# Project CSS
 
 HTML website by Bintang.
 ![home](images/mockups/home.png)
